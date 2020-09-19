@@ -1,0 +1,11 @@
+.user-menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.logout_button {
+  color: #212121;
+  background-color: #ffd700;
+  border-radius: 8px;
+}

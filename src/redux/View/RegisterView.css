@@ -1,0 +1,37 @@
+.register-form {
+  display: flex;
+  align-items: center;
+  padding: 30px 30px 20px 20px;
+  margin: 0 auto;
+  align-self: center;
+  flex-direction: column;
+}
+
+.register-header_description {
+  font-style: italic;
+  color: gray;
+  font-weight: 900;
+}
+
+.register-form_style {
+  margin-bottom: 15px;
+}
+
+.register-form_description {
+  margin: 0;
+  padding: 0;
+  color: #ffd700;
+  font-weight: 900;
+}
+
+.origin-form_style-register {
+  padding: 10px 10px;
+  background-color: #212121;
+  border-radius: 10px;
+}
+
+.register-button {
+  color: #212121;
+  background-color: #ffd700;
+  border-radius: 8px;
+}

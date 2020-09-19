@@ -1,0 +1,30 @@
+.phonebook {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #212121;
+  padding: 1px;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+
+.phonebook-head {
+  color: #ffffff;
+}
+
+.container-list {
+  width: 400px;
+}
+
+.container-list_ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-ul {
+  text-decoration: none;
+  color: #ffd700;
+}
+.nav-li {
+  list-style: none;
+}
